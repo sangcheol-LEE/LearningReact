@@ -1,0 +1,28 @@
+{
+   "colors" : [
+      {
+         "id" : "df0jfkri29jfki208oek3o5296oek",
+         "title" : "해질녘 바다",
+         "color" : "#00d03d",
+         "rating" : 5
+      },
+      {
+         "id" : "kdsdo0jfkri29jfki208oek3o5qe5x",
+         "title" : "잔디",
+         "color" : "#20d03d",
+         "rating" : 4
+      },
+      {
+         "id" : "gum3sdkri29jfki208oek3ofjd9sxas",
+         "title" : "푸르른 달",
+         "color" : "#60343d",
+         "rating" : 2
+      },
+      {
+         "id" : "bjiwkal9jfki208oek3ofsdl0asdbj0",
+         "title" : "서해 바다",
+         "color" : "#43d03d",
+         "rating" : 0
+      }
+   ]
+}
