@@ -29,9 +29,7 @@ const UseFetch = (uri) => {
    useEffect(() => {
       getData()
    },[uri])
-   console.log(status)
 
-   // const {data, error , loading} = status
    return status
 
 }
